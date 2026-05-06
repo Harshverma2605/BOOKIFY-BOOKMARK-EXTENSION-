@@ -1,4 +1,4 @@
---> Bookify — Smart Bookmark Manager Chrome Extension
+--> Bookify — Smart Bookmark Manager Chrome Extension.
 📌 Description
 
 Bookify is a lightweight and efficient Chrome extension designed to simplify bookmark management. Unlike Chrome’s default Bookmark Manager — which often becomes slow and cluttered — Bookify provides a clean popup interface for quick saving, instant searching, and fast access to organized bookmarks.
